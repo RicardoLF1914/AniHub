@@ -31,22 +31,22 @@ The project was built as a portfolio piece to demonstrate skills in semantic HTM
 
 ```
 AniHub/
-├── 📂 assets/               # Logos, icons, and images
-├── 📂 catalogo/             # Main catalog/browse page
+├── 📂 assets/               
+├── 📂 catalogo/            
 │   ├── 📂 js/
 │   │   ├── 📂 components/
-│   │   │   ├── Card.js      # Individual movie/anime card component
-│   │   │   └── Carousel.js  # Slider/row component
-│   │   ├── data.js          # Content data (categories & items)
-│   │   ├── main.js          # Entry point for catalog page
-│   │   └── utils.js         # Shared utility functions
-│   ├── catalogo.css         # Catalog page styles
-│   └── catalogo.html        # Catalog page markup
+│   │   │   ├── Card.js      
+│   │   │   └── Carousel.js 
+│   │   ├── data.js          
+│   │   ├── main.js         
+│   │   └── utils.js        
+│   ├── catalogo.css         
+│   └── catalogo.html        
 ├── 📂 js/
-│   └── index.js             # Profile selection logic
-├── index.html               # Landing / profile selection page
-├── style.css                # Global & index page styles
-└── theme.js                 # Theme manager (dark/light mode)
+│   └── index.js             
+├── index.html               
+├── style.css
+└── theme.js                 
 ```
 
 ---
